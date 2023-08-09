@@ -1,12 +1,12 @@
-# apple_slice_registration
-This repository contains code to perform joint image registration between parallel photographs of sliced apples and CT scans. 
+# apple_photo_ct_workflow
+This repository contains the Python code used in the paper (publication in progress) _"Detecting internal disorders in fruit by CT. Part 1: Joint 2D to 3D image registration workflow for comparing multiple slice photographs and CT scans of apple fruit"_. The paper describes a workflow for acquiring slice photographs and registered CT slices of apple fruit in four steps: data acquisition, image segmentation, image registration, and validation.
 
 ## Running the code
 
 ### Cloning the repository
 To clone the repository with submodules use the following command:
 ```
-git clone --recurse-submodules git@github.com:D1rk123/apple_slice_registration.git
+git clone --recurse-submodules git@github.com:D1rk123/apple_photo_ct_workflow.git
 ```
 
 ### Conda environment
