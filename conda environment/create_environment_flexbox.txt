@@ -1,0 +1,5 @@
+conda create -n flexbox tifffile=2022.4.8 numpy pyqtgraph matplotlib tqdm imageio psutil toml scipy scikit-image simpleitk xraylib networkx pygraphviz numpy-stl astra-toolbox -c astra-toolbox -c conda-forge -c defaults
+conda activate flexbox
+pip install git+https://github.com/cicwi/flexDATA
+pip install git+https://github.com/cicwi/flexTOMO
+pip install git+https://github.com/cicwi/flexCALC
