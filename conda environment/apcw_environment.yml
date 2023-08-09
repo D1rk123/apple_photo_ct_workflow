@@ -1,4 +1,4 @@
-name: brwn2
+name: apcw
 channels:
   - pytorch
   - astra-toolbox

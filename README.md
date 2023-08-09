@@ -10,7 +10,7 @@ git clone --recurse-submodules git@github.com:D1rk123/apple_photo_ct_workflow.gi
 ```
 
 ### Conda environment
-Two conda environments were used to run the code in this repository. Most code uses the *asr* environemnt, but for the reconstruction code the *flexbox* environment was used. To create these conda environment, follow the instructions in conda environment/create_environment.txt or conda environment/create_environment_flexbox.txt. The exact environments are also described in .yml files in the same directory. 
+Two conda environments were used to run the code in this repository. Most code uses the *apcw* environemnt, but for the reconstruction code the *flexbox* environment was used. To create these conda environment, follow the instructions in conda environment/create_environment.txt or conda environment/create_environment_flexbox.txt. The exact environments are also described in .yml files in the same directory. 
 
 ### Dataset
 The code was written for registration of a dataset of CT scans and parallel slice photographs of Kanzi apples. This dataset is publicly available on [Zenodo](https://zenodo.org/record/8167285).
